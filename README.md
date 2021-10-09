@@ -36,10 +36,8 @@ This application was developed with ReactJS, consuming API passed on by  <a href
 <h2 id="description" name="description">
 📝 Description
 </h2>
-
-
 <p>
-This application is created according to the teachings of <a href="https://rocketseat.com.br/">Rocketseat</a>, focusing on the front-end, to put into practice the teachings about ReactJS and other dependencies, such as Axios for API consumption and Styled Components for style.
+Assembling the structure and thinking outside the box, having the challenge of providing moments to put creativity in motion, and that's what happened in this project, I raised the requirements, and thought about how it could be different, but without running away from what was asked, and so I created a flow of listing the products and adding them to the cart, controlling the quantity in the cart as well as its exclusion, and taking into account the rule that if the value is greater than R$ 10, the customer will receive free shipping.
 </p>
 
 <br />
@@ -66,7 +64,10 @@ This application is created according to the teachings of <a href="https://rocke
 🎯 Project's goal
 </h2>
 
-Assembling the structure and thinking outside the box, having the challenge of providing moments to put creativity in motion, and that's what happened in this project, I raised the requirements, and thought about how it could be different, but without running away from what was asked, and so I created a flow of listing the products and adding them to the cart, controlling the quantity in the cart as well as its exclusion, and taking into account the rule that if the value is greater than R$ 10, the customer will receive free shipping.
+This project was elaborated based on the challenge passed by codeby, where the requirements are:
+
+- Develop a “Shopping Cart” using an API.
+- List the products, display the purchase total and display a message informing you if the order has free shipping.
 
 <br />
 
