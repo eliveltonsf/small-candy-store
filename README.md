@@ -15,9 +15,9 @@ This application was developed with ReactJS, consuming API passed on by  <a href
 
 <p align="center">
 
-  <img alt="javascript" src="https://img.shields.io/badge/javascript-%25-yellow.svg?cacheSeconds=2592000?style=flat&logo=javascript" />
+  <img alt="javascript" src="https://img.shields.io/badge/javascript-78.0%25-yellow.svg?cacheSeconds=2592000?style=flat&logo=javascript" />
 
-  <img alt="html" src="https://img.shields.io/badge/html-%25-red.svg?cacheSeconds=2592000?style=flat&logo=html5" />
+  <img alt="html" src="https://img.shields.io/badge/html-22.0%25-red.svg?cacheSeconds=2592000?style=flat&logo=html5" />
 
   <img alt="react" src="https://img.shields.io/badge/react-16.13.1-blue.svg?cacheSeconds=2592000?style=flat&logo=react" />
 
