@@ -1,17 +1,17 @@
 /* eslint-disable no-unused-expressions */
 import React from 'react';
-import { useDispatch, useSelector } from 'react-redux';
 import {
-  MdRemoveCircleOutline,
   MdAddCircleOutline,
   MdDelete,
+  MdRemoveCircleOutline,
 } from 'react-icons/md';
+import { useDispatch, useSelector } from 'react-redux';
 
 import { formatPrice } from '../../util/format';
 
 import * as CartActions from '../../store/modules/cart/actions';
 
-import { Container, ProductTable, FreeShipping, Total } from './styles';
+import { Container, FreeShipping, ProductTable, Total } from './styles';
 
 export default function Cart() {
   const total = useSelector((state) => {

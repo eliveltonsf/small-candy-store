@@ -1,10 +1,10 @@
 import React from 'react';
 
-import { Link } from 'react-router-dom';
 import { useSelector } from 'react-redux';
+import { Link } from 'react-router-dom';
 
 import { MdShoppingBasket } from 'react-icons/md';
-import { Container, Cart } from './styles';
+import { Cart, Container } from './styles';
 
 import logo from '../../assets/logo.png';
 

@@ -13,9 +13,7 @@
       "modalType": null,
       "parentItemIndex": null,
       "parentAssemblyBinding": null,
-      "assemblies": [
-        
-      ],
+      "assemblies": [],
       "priceValidUntil": "2020-12-01T02:30:00Z",
       "tax": 0,
       "price": 303,
@@ -38,26 +36,14 @@
       },
       "quantity": 1,
       "seller": "1",
-      "sellerChain": [
-        "1"
-      ],
+      "sellerChain": ["1"],
       "imageUrl": "http://codeby.vteximg.com.br/arquivos/ids/159959-800-1029/truffon-meio-amargo.png?v=636930938547630000",
       "detailUrl": "/trufa-bendito-cacau-55-/p",
-      "components": [
-        
-      ],
-      "bundleItems": [
-        
-      ],
-      "attachments": [
-        
-      ],
-      "attachmentOfferings": [
-        
-      ],
-      "offerings": [
-        
-      ],
+      "components": [],
+      "bundleItems": [],
+      "attachments": [],
+      "attachmentOfferings": [],
+      "offerings": [],
       "priceTags": [
         {
           "name": "discount@price-6f7f6403-f49b-4e24-936e-bbdba265e959#42b7009d-54a4-4c66-abae-1446b085c5c1",
@@ -84,9 +70,7 @@
       "modalType": null,
       "parentItemIndex": null,
       "parentAssemblyBinding": null,
-      "assemblies": [
-        
-      ],
+      "assemblies": [],
       "priceValidUntil": "2020-12-01T02:30:00Z",
       "tax": 0,
       "price": 123,
@@ -109,26 +93,14 @@
       },
       "quantity": 1,
       "seller": "1",
-      "sellerChain": [
-        "1"
-      ],
+      "sellerChain": ["1"],
       "imageUrl": "http://codeby.vteximg.com.br/arquivos/ids/159939-800-1029/trufa-morango-30g.png?v=636916431597070000",
       "detailUrl": "/trufa-morango/p",
-      "components": [
-        
-      ],
-      "bundleItems": [
-        
-      ],
-      "attachments": [
-        
-      ],
-      "attachmentOfferings": [
-        
-      ],
-      "offerings": [
-        
-      ],
+      "components": [],
+      "bundleItems": [],
+      "attachments": [],
+      "attachmentOfferings": [],
+      "offerings": [],
       "priceTags": [
         {
           "name": "discount@price-6f7f6403-f49b-4e24-936e-bbdba265e959#42b7009d-54a4-4c66-abae-1446b085c5c1",
@@ -155,9 +127,7 @@
       "modalType": null,
       "parentItemIndex": null,
       "parentAssemblyBinding": null,
-      "assemblies": [
-        
-      ],
+      "assemblies": [],
       "priceValidUntil": "2020-12-01T02:30:00Z",
       "tax": 0,
       "price": 303,
@@ -180,26 +150,14 @@
       },
       "quantity": 1,
       "seller": "1",
-      "sellerChain": [
-        "1"
-      ],
+      "sellerChain": ["1"],
       "imageUrl": "http://codeby.vteximg.com.br/arquivos/ids/159942-800-1029/trufa-tradicional.png?v=636916452526400000",
       "detailUrl": "/trufa-tradicional/p",
-      "components": [
-        
-      ],
-      "bundleItems": [
-        
-      ],
-      "attachments": [
-        
-      ],
-      "attachmentOfferings": [
-        
-      ],
-      "offerings": [
-        
-      ],
+      "components": [],
+      "bundleItems": [],
+      "attachments": [],
+      "attachmentOfferings": [],
+      "offerings": [],
       "priceTags": [
         {
           "name": "discount@price-6f7f6403-f49b-4e24-936e-bbdba265e959#42b7009d-54a4-4c66-abae-1446b085c5c1",
@@ -226,9 +184,7 @@
       "modalType": null,
       "parentItemIndex": null,
       "parentAssemblyBinding": null,
-      "assemblies": [
-        
-      ],
+      "assemblies": [],
       "priceValidUntil": "2020-12-01T02:30:00Z",
       "tax": 0,
       "price": 303,
@@ -251,26 +207,14 @@
       },
       "quantity": 1,
       "seller": "1",
-      "sellerChain": [
-        "1"
-      ],
+      "sellerChain": ["1"],
       "imageUrl": "http://codeby.vteximg.com.br/arquivos/ids/159957-800-1029/trufa-coco.png?v=636929369885800000",
       "detailUrl": "/trufa-coco/p",
-      "components": [
-        
-      ],
-      "bundleItems": [
-        
-      ],
-      "attachments": [
-        
-      ],
-      "attachmentOfferings": [
-        
-      ],
-      "offerings": [
-        
-      ],
+      "components": [],
+      "bundleItems": [],
+      "attachments": [],
+      "attachmentOfferings": [],
+      "offerings": [],
       "priceTags": [
         {
           "name": "discount@price-6f7f6403-f49b-4e24-936e-bbdba265e959#42b7009d-54a4-4c66-abae-1446b085c5c1",
@@ -297,9 +241,7 @@
       "modalType": null,
       "parentItemIndex": null,
       "parentAssemblyBinding": null,
-      "assemblies": [
-        
-      ],
+      "assemblies": [],
       "priceValidUntil": "2020-12-01T02:30:00Z",
       "tax": 0,
       "price": 110,
@@ -322,26 +264,14 @@
       },
       "quantity": 1,
       "seller": "1",
-      "sellerChain": [
-        "1"
-      ],
+      "sellerChain": ["1"],
       "imageUrl": "http://codeby.vteximg.com.br/arquivos/ids/159993-800-1029/trufa-branco.png?v=636945743710500000",
       "detailUrl": "/trufa-lacreme-branco/p",
-      "components": [
-        
-      ],
-      "bundleItems": [
-        
-      ],
-      "attachments": [
-        
-      ],
-      "attachmentOfferings": [
-        
-      ],
-      "offerings": [
-        
-      ],
+      "components": [],
+      "bundleItems": [],
+      "attachments": [],
+      "attachmentOfferings": [],
+      "offerings": [],
       "priceTags": [
         {
           "name": "discount@price-6f7f6403-f49b-4e24-936e-bbdba265e959#42b7009d-54a4-4c66-abae-1446b085c5c1",
@@ -368,9 +298,7 @@
       "modalType": null,
       "parentItemIndex": null,
       "parentAssemblyBinding": null,
-      "assemblies": [
-        
-      ],
+      "assemblies": [],
       "priceValidUntil": "2020-12-01T02:30:00Z",
       "tax": 0,
       "price": 303,
@@ -393,26 +321,14 @@
       },
       "quantity": 1,
       "seller": "1",
-      "sellerChain": [
-        "1"
-      ],
+      "sellerChain": ["1"],
       "imageUrl": "http://codeby.vteximg.com.br/arquivos/ids/159941-800-1029/mezzo.png?v=636916443729870000",
       "detailUrl": "/trufa-mezzo/p",
-      "components": [
-        
-      ],
-      "bundleItems": [
-        
-      ],
-      "attachments": [
-        
-      ],
-      "attachmentOfferings": [
-        
-      ],
-      "offerings": [
-        
-      ],
+      "components": [],
+      "bundleItems": [],
+      "attachments": [],
+      "attachmentOfferings": [],
+      "offerings": [],
       "priceTags": [
         {
           "name": "discount@price-6f7f6403-f49b-4e24-936e-bbdba265e959#42b7009d-54a4-4c66-abae-1446b085c5c1",
@@ -439,9 +355,7 @@
       "modalType": null,
       "parentItemIndex": null,
       "parentAssemblyBinding": null,
-      "assemblies": [
-        
-      ],
+      "assemblies": [],
       "priceValidUntil": "2020-12-01T02:30:00Z",
       "tax": 0,
       "price": 110,
@@ -464,26 +378,14 @@
       },
       "quantity": 1,
       "seller": "1",
-      "sellerChain": [
-        "1"
-      ],
+      "sellerChain": ["1"],
       "imageUrl": "http://codeby.vteximg.com.br/arquivos/ids/159936-800-1029/Trufa-Morango-e-Maracuja.png?v=636915614811230000",
       "detailUrl": "/trufa-morango-e-maracuja-/p",
-      "components": [
-        
-      ],
-      "bundleItems": [
-        
-      ],
-      "attachments": [
-        
-      ],
-      "attachmentOfferings": [
-        
-      ],
-      "offerings": [
-        
-      ],
+      "components": [],
+      "bundleItems": [],
+      "attachments": [],
+      "attachmentOfferings": [],
+      "offerings": [],
       "priceTags": [
         {
           "name": "discount@price-6f7f6403-f49b-4e24-936e-bbdba265e959#42b7009d-54a4-4c66-abae-1446b085c5c1",
@@ -523,9 +425,7 @@
         "ean": "223311",
         "imageUrl": "http://codeby.vteximg.com.br/arquivos/ids/159959-800-1029/truffon-meio-amargo.png?v=636930938547630000",
         "detailUrl": "/trufa-bendito-cacau-55-/p",
-        "assemblyOptions": [
-          
-        ]
+        "assemblyOptions": []
       },
       {
         "id": "16701612",
@@ -537,9 +437,7 @@
         "ean": "0123456789123",
         "imageUrl": "http://codeby.vteximg.com.br/arquivos/ids/159939-800-1029/trufa-morango-30g.png?v=636916431597070000",
         "detailUrl": "/trufa-morango/p",
-        "assemblyOptions": [
-          
-        ]
+        "assemblyOptions": []
       },
       {
         "id": "16701610",
@@ -551,9 +449,7 @@
         "ean": "223311",
         "imageUrl": "http://codeby.vteximg.com.br/arquivos/ids/159942-800-1029/trufa-tradicional.png?v=636916452526400000",
         "detailUrl": "/trufa-tradicional/p",
-        "assemblyOptions": [
-          
-        ]
+        "assemblyOptions": []
       },
       {
         "id": "16701618",
@@ -565,9 +461,7 @@
         "ean": "223311",
         "imageUrl": "http://codeby.vteximg.com.br/arquivos/ids/159957-800-1029/trufa-coco.png?v=636929369885800000",
         "detailUrl": "/trufa-coco/p",
-        "assemblyOptions": [
-          
-        ]
+        "assemblyOptions": []
       },
       {
         "id": "16701609",
@@ -579,9 +473,7 @@
         "ean": "223311",
         "imageUrl": "http://codeby.vteximg.com.br/arquivos/ids/159993-800-1029/trufa-branco.png?v=636945743710500000",
         "detailUrl": "/trufa-lacreme-branco/p",
-        "assemblyOptions": [
-          
-        ]
+        "assemblyOptions": []
       },
       {
         "id": "16701611",
@@ -593,9 +485,7 @@
         "ean": "11122222",
         "imageUrl": "http://codeby.vteximg.com.br/arquivos/ids/159941-800-1029/mezzo.png?v=636916443729870000",
         "detailUrl": "/trufa-mezzo/p",
-        "assemblyOptions": [
-          
-        ]
+        "assemblyOptions": []
       },
       {
         "id": "16701608",
@@ -607,9 +497,7 @@
         "ean": "1122334",
         "imageUrl": "http://codeby.vteximg.com.br/arquivos/ids/159936-800-1029/Trufa-Morango-e-Maracuja.png?v=636915614811230000",
         "detailUrl": "/trufa-morango-e-maracuja-/p",
-        "assemblyOptions": [
-          
-        ]
+        "assemblyOptions": []
       }
     ]
   }
